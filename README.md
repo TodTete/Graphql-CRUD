@@ -20,4 +20,4 @@ Este proyecto implementa un sistema **CRUD (Crear, Leer, Actualizar, Eliminar)**
 
 > ✅ Proyecto ideal para comprender el funcionamiento de GraphQL en operaciones básicas de gestión de datos.
 
-## Este proyecto es basado en ideas recopiladas 
+## Este proyecto es basado en ideas recopiladas de FaztCode
